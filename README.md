@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimmsbWalker
 - 👀 I’m interested in Software and Business
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Small games/apps/websites
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me simmsbwalker@gmail.com
 
 <!---
