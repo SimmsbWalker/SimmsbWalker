@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimmsbWalker
-- 🌊 BDR @ Curate | Founder @ Tempestive 
-- 😎 I’m Looking for Startup engineers
+- 🌊 BDR @ Curate 
+- 😎 I’m Looking for Startup Positions
 - 📫 Reach me at simmsbwalker@gmail.com
 
 <!---
