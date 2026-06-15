@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @SimmsbWalker
-- 🌊 BDR @ Curate 
-- 😎 I’m Looking for Startup Positions
 - 📫 Reach me at simmsbwalker@gmail.com
 
 <!---
